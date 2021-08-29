@@ -12,6 +12,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- ⏲️ I am also into competitive programming and love solving challenging problems. 
+
 - 📫 drop an email at **saurabhgupta2131@gmail.com**
 
 - ⚡ Fun fact **I don't go to the GYM very often.**

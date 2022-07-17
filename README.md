@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#"><img width="200px" height="200px" src="https://media4.giphy.com/media/ZXkraFrlIW1D25M6ZJ/200w.webp?cid=ecf05e477zpkwvdzf57eqfjspgi7f4xhfdh9xzei7dwqt2zm&rid=200w.webp&ct=g" height="175px"/></a></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saurabh</h1>
-<h3 align="center">I'm a second year IT undergrad from India.</h3>
+<h3 align="center">I'm a third year IT undergrad from India.</h3>
 
 
 ## 🙋‍♂️ About Me
